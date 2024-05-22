@@ -36,8 +36,8 @@ This understanding would further facilitate the understanding of more recent tra
 
 [6] ["The illustrated transformer" - Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
-[7] ["Illustrated Guide to Transformers Nueral Network" - The AI Hacker]("https://www.youtube.com/watch?v=4Bdc55j80l8")
+[7] ["Illustrated Guide to Transformers Nueral Network" - The AI Hacker](https://www.youtube.com/watch?v=4Bdc55j80l8)
 
-[8] ["How a transformer works at inference vs training time"]("https://www.youtube.com/watch?v=IGu7ivuy1Ag")
+[8] ["How a transformer works at inference vs training time"](https://www.youtube.com/watch?v=IGu7ivuy1Ag)
 
 [9.] ["Transformer architecture deepdive"](https://d2l.ai/chapter_attention-mechanisms-and-transformers/transformer.html)
